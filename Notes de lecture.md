@@ -53,13 +53,18 @@ Le modèle n’est pas spécifique à un milieu et à une espèce de criquets
 Les résultats du modèle :
 
 -       L’augmentation du financement de 10% permettrait d’augmenter l’efficacité de la prévention de 20% et donc de limiter les coûts occasionnés par les crises
+
 -       Meilleure réactivité des bailleurs
+
 -       Flexibilité du nombre d’agent (recherche d’un optimum) en période de récession
 
 Les perspectives et limites (réflexions à mener sur) :
 -       Intégration des effets du changement climatiques
+
 -       Intégration de l’expertise humaine et de l’enjeux de sa sauvegarde lors des longues périodes de récession, qui occasionnent une réduction des financements (le grand défi est le maintien des compétences et de la mobilisation pendant les périodes de récession)
+
 -       Intégration des facteurs politiques (et sociale au sens large) qui influencent le comportements des équipes chargées du traitement.
+
 -       Création de modèle spécifique avec une environnement plus détaillé et centré sur une espèce spécifique de criquet semble nécessaire pour intégrer dans le modèle l’expertise locale, les facteurs politiques etc. « ALMMAS comme base de co-construction avec les pp d’un système complexe » (objectif du stage ?)
 
 
@@ -139,3 +144,4 @@ Elle mentionne la collecte humaine à des fins d’alimentation comme substitue 
 Elle mentionne également la confrontation entre utilisation agricole et utilisation alimentaire.
 
 Pour elle le future de la gestion est dans l’articulation entre l’utilisation de biopesticides non nocifs pour environnement et l’homme et la collecte à des fins alimentaires.
+
