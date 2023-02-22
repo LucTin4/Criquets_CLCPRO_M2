@@ -67,6 +67,9 @@ Les perspectives et limites (réflexions à mener sur) :
 
 -       Création de modèle spécifique avec une environnement plus détaillé et centré sur une espèce spécifique de criquet semble nécessaire pour intégrer dans le modèle l’expertise locale, les facteurs politiques etc. « ALMMAS comme base de co-construction avec les pp d’un système complexe » (objectif du stage ?)
 
+## observations importantes 
+- Les problèmes identifiés et les solutions apportées dans l'article portent sur le financement (L4), les changements environnementaux (L1) et l'organisation des équipes (L3). Rien sur la surveillance et le traitement (L2), qui est pourtant le niveau qui nous intéresse le plus. 
+
 
 # La revanche des contextes, Olivier de Sardan,
 
@@ -80,11 +83,7 @@ Dans le chapitre 3, la notion de norme pratique est particulièrement éclairant
 
 Il semble falloir toujours associer un qualificatif au terme de norme. On parle de normes officielles, sociales etc. Les normes officielles sont celles relevant des sphères publiques et professionnelles. Elles sont formulées explicitement dans un cadre légal ou bureaucratique. Les normes sociales sont tout aussi formelles et explicites. Elles renvoient au divers interdits, prescriptions relatives à la sphère privée. Elles sont enseignées, et s’inscrivent dans une rhétorique de légitimation (ex : j’ai agi comme cela parce que c’était mon rôle de père…) Elles sont définies comme « diverses régulations implicites (informelles, de facto, tacites, latentes) qui sous-tendent les pratiques des acteurs ayant un écart avec les normes explicites (normes officielles ou sociales). Elles sont à la fois les normes de l’ombre et celles du quotidien. Si elles relèvent des « non-dits », elles ne sont pas marginales (comportements déviants) mais récurrentes tolérées et prévisibles (façon de faire communes, stabilisées prédictibles et potentiellement efficaces).
 
-*On fait l’hypothèse qu’il existe un ensemble de normes pratiques qui structurent le comportement/la manière de traiter des prospecteurs. Le stage est l’occasion de relever ces normes pratiques, implicites, qui échappent aux institutions (internationales et nationales ??) de la lutte antiacridienne (CLCPRO etc.)* 
-
 Ils existent une diversité de normes pratiques. Certaines constituent des accords explicites mais dissimulés, entre acteurs (entre collègue mais pas plus). D’autre à de accords tacites ou enfin simplement à la convergence de comportements (routine locale). L’échelle des normes est avant tout locale. Elles se forment par des interactions récurrentes voir routinières (ex : culture professionnelle). Elles semblent donc être fortement contextualisées.
-
-*On pourra faire l’hypothèse que les cultures professionnelles de traitement sont diverses à l’échelle des pays de la CLCPRO. Cette diversité étant constituée en partie d’un ensemble de normes pratiques, localement constituées. Il faudra donc porter un intérêt particulier aux interactions entre les acteurs chargés de la gestion de la lutte AA, puisque si les interactions entre acteurs internationaux sont fréquentes l’échelle des normes pratiques de traitement est peut-être plus petit que l’échelle locale (voir national).*
 
 Les normes pratiques peuvent être plus ou moins dissimulées et plus au moins légitimantes (2 variables fortement liées). L’intrusion d’une norme sociale dans la sphère professionnelle (qui devient donc une norme pratique) procède de cette légitimation d’une action (ex de l’absentéisme pour cause de baptême ou d’enterrement).
 
@@ -97,6 +96,10 @@ Typologie des normes pratiques
 -       Transgressives : corruption (forte déviance).
 -       Palliatives : relève de la débrouillardise
 -       Rebelles
+
+## observations importantes
+- On pourrait faire l’hypothèse qu’il existe un ensemble de normes pratiques qui structurent le comportement/la manière de traiter des prospecteurs. Le stage est l’occasion de relever ces normes pratiques, implicites, qui échappent aux institutions (internationales et nationales ??) de la lutte antiacridienne (CLCPRO etc.)
+- On pourra faire l’hypothèse que les cultures professionnelles de traitement sont diverses à l’échelle des pays de la CLCPRO. Cette diversité étant constituée en partie d’un ensemble de normes pratiques, localement constituées. Il faudra donc porter un intérêt particulier aux interactions entre les acteurs chargés de la gestion de la lutte AA, puisque si les interactions entre acteurs internationaux sont fréquentes l’échelle des normes pratiques de traitement est peut-être plus petit que l’échelle locale (voir national). 
 
 # The limitations of locust preventive management faced with spatial uncertainty: exploration with a multi-agent model
 
