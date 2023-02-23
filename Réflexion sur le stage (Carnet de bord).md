@@ -24,13 +24,17 @@ Pour reprendre les niveaux définis par Gay *et al* dans leur modèle SMA (N1: e
 
 ## Comment tirer parti du travail d'entretien? 
 
+Pour mieux comprendre les entretiens il serait peut-être utile de lire, préalablement, les guides de la FAO https://www.fao.org/ag/locusts/en/publicat/gl/gl/index.html mais ils datent de 2001-2003. 
+
 Qu'est ce que vous avez cherché à comprendre avec ces entretiens? 
 - Comment les prospecteurs agissent? (éléments et phases d'action) 
 - Quelles sont les différentes entités participant de près ou de loin au système de gestion (modèle type PARDI)? 
 - Existe-t-il une diversité de discours (// pratiques/comportements)? Si oui, comment l'expliquer (expérience du prospecteur, statut de retraités vs actifs etc.)? 
 
 Difficile d'analyser les données car elles ne sont pas standardisées - un même élément peu apparaitre sous deux formulations différentes. 
-L'idée aurait pu être de former un schéma conceptuel avec les entités qui reviennent dans tous les entretiens et avec une symbologie pour les points de tensions (les éléments pour lesquels les discours ont été différents ou 
+L'idée aurait pu être de former un schéma conceptuel avec les entités qui reviennent dans tous les entretiens et avec une symbologie pour les points de tensions (les éléments pour lesquels les discours ont été différents) 
+
+Est-ce qu'il serait possible de pouvoir consulter une fiche e-locust? Voir quels sont les éléments à renseigner etc. 
 
 ## Pourquoi avoir recours à un jeu? 
 
@@ -40,6 +44,8 @@ A partir de cela on pose (pourrait poser) plusieurs hypothèses:
 1)  Il existe un ensemble de normes pratiques (Olivier de Sardan, 2021) c'est-à-dire de pratiques inconscientes ou dissimulées qui ne relèvent pas des textes et stratégies officielles (de l'UNLA ou de la CLCPRO)
 2) Le format de l'entretien n'est pas adapté pour identifier ces normes pratiques (inconscientes ou dissimulées). Celui du jeu conviendrait davantage (nécessité de creuser la question de quelle est la plus value du jeu par rapport aux entretiens face à cet enjeu)
 
+Le modèle jeu est également pensé comme objet permettant aux agents acridiens de renforcer la compréhension de leur raisons d'actions et de leur manières d'agir réciproques. 
+(( Le jeu pourrait également être un objet permettant la structuration d'un ensemble de pratiques collectivement définies ??)) 
 
 ## Quelles formes ce jeu devrait-il prendre? 
 

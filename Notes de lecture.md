@@ -2,6 +2,8 @@ Sites ressources:
 [https://cnla.mr](https://cnla.mr) CNLA Mauritanie
 [https://www.fao.org/ag/locusts/fr/info/info/index.html](https://www.fao.org/ag/locusts/fr/info/info/index.html) Observatoire acridien de la FAO
 [https://locust-hub-hqfao.hub.arcgis.com](https://locust-hub-hqfao.hub.arcgis.com) bases de données et carto
+https://www.fao.org/ag/locusts/en/publicat/gl/gl/index.html Ensemble de guides (7 parties) relatif à la lutte antiacridienne (Desert Locust) 
+
 
 # Documents de la FAO
 
