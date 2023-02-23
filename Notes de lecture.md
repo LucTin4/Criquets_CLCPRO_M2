@@ -150,3 +150,4 @@ Elle mentionne également la confrontation entre utilisation agricole et utilisa
 
 Pour elle le future de la gestion est dans l’articulation entre l’utilisation de biopesticides non nocifs pour environnement et l’homme et la collecte à des fins alimentaires.
 
+Nicolas Bécu ![[Capture d’écran 2023-02-23 à 16.08.50.png]]

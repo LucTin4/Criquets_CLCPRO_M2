@@ -1,4 +1,4 @@
-22/0
+ 22/0
 ## Pourquoi étudier la gestion antiacridienne préventive à travers les pratiques de surveillance et de traitement? 
 
 Après quelques lectures, la réponse à cette question n'est pas claire. L'existence de ce stage suppose qu'il y ait des défaillances dans la gestion préventive actuelle mais je n'ai pas encore réussi à clairement les identifier.
@@ -44,8 +44,18 @@ A partir de cela on pose (pourrait poser) plusieurs hypothèses:
 1)  Il existe un ensemble de normes pratiques (Olivier de Sardan, 2021) c'est-à-dire de pratiques inconscientes ou dissimulées qui ne relèvent pas des textes et stratégies officielles (de l'UNLA ou de la CLCPRO)
 2) Le format de l'entretien n'est pas adapté pour identifier ces normes pratiques (inconscientes ou dissimulées). Celui du jeu conviendrait davantage (nécessité de creuser la question de quelle est la plus value du jeu par rapport aux entretiens face à cet enjeu)
 
-Le modèle jeu est également pensé comme objet permettant aux agents acridiens de renforcer la compréhension de leur raisons d'actions et de leur manières d'agir réciproques. 
-(( Le jeu pourrait également être un objet permettant la structuration d'un ensemble de pratiques collectivement définies ??)) 
+Le modèle jeu est également pensé comme objet permettant aux agents acridiens de renforcer la compréhension de leur raisons d'actions et de leur manières d'agir réciproques. Le jeu semble donc pouvoir être un objet améliorant la compréhension inter-acteurs et potentiellement s'ériger comme médium permettant la structuration d'un ensemble de pratiques collectivement définies (?)
+
+## Avec qui (et pour qui) travaille-t-on? 
+
+#### Qui sont les joueurs ciblés?  Pour qui le jeu est créé? 
+Les utilisateurs du jeu seront des professionnels de la lutte antiacridienne. Il est donc fort probable (mais pas certain) qu'ils possèdent une connaissance fine des mécanismes biologiques et environnementaux acridiens ainsi que des enjeux et des dispositifs liés à la prévention des invasions. Ce qui détermine bcp de choses. La nature des participants détermine à la fois les objects/fonctions (cf.ci-dessus) et la forme du jeu (ci-dessous). 
+
+(( Ici je parle un peu en live.
+
+Serait peut-être intéressant de trouver de la biblio (des réflexions) qui parle de la manière dont le statut des joueurs (pour lequel est formalisé le jeu) peut influencer le format et l'usage d'un jeu. Est-ce que cette question est similaire à celle qui fait s'articuler objectifs de recherche et format/usage d'un jeu?  En d'autres termes, se demande pour qui est créé ce jeu est similaire à se demande pour quoi est créé ce jeu? 
+
+Même si il est bien trop précoce pour se poser la question, est-ce que l'organisation d'une session de jeu avec des joueurs qui ne sont pas directement liée à la gestion en tant que telle, mais qui peuvent être affecté par les invasions (éleveurs nomades),  Est-ce que l'usage et la fonction d'un jeu peut diverger selon le statut des joueurs/ la composition du groupe de joueur? ))
 
 ## Quelles formes ce jeu devrait-il prendre? 
 
