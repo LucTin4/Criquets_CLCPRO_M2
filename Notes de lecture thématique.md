@@ -72,37 +72,6 @@ Les perspectives et limites (réflexions à mener sur) :
 ## observations importantes 
 - Les problèmes identifiés et les solutions apportées dans l'article portent sur le financement (L4), les changements environnementaux (L1) et l'organisation des équipes (L3). Rien sur la surveillance et le traitement (L2), qui est pourtant le niveau qui nous intéresse le plus. 
 
-
-# La revanche des contextes, Olivier de Sardan,
-
-**Introduction, la socio-anthropologie de l’ingénérie sociale et les contextes africains +  Chapitre 3 : les normes pratiques**
-
-L’ingénierie sociale vise à étudier les dispositifs d’intervention planifiée, formalisés par des experts dans le but de changer des institutions ou des comportements. Elle vise également à considérer les réactions des acteurs impliqués dans ces dispositifs lors de sa mise en œuvre. Les écarts entre la perfection formelles de ces dispositifs (élaborés théoriquement) et leur mise en œuvre empirique est le sujet central de La _Revanche des contextes_.
-
-La socio-anthropologie revendiquée par Oliver de Sardan est une science des contextes ou bien des acteurs en contexte.
-
-Dans le chapitre 3, la notion de norme pratique est particulièrement éclairante.
-
-Il semble falloir toujours associer un qualificatif au terme de norme. On parle de normes officielles, sociales etc. Les normes officielles sont celles relevant des sphères publiques et professionnelles. Elles sont formulées explicitement dans un cadre légal ou bureaucratique. Les normes sociales sont tout aussi formelles et explicites. Elles renvoient au divers interdits, prescriptions relatives à la sphère privée. Elles sont enseignées, et s’inscrivent dans une rhétorique de légitimation (ex : j’ai agi comme cela parce que c’était mon rôle de père…) Elles sont définies comme « diverses régulations implicites (informelles, de facto, tacites, latentes) qui sous-tendent les pratiques des acteurs ayant un écart avec les normes explicites (normes officielles ou sociales). Elles sont à la fois les normes de l’ombre et celles du quotidien. Si elles relèvent des « non-dits », elles ne sont pas marginales (comportements déviants) mais récurrentes tolérées et prévisibles (façon de faire communes, stabilisées prédictibles et potentiellement efficaces).
-
-Ils existent une diversité de normes pratiques. Certaines constituent des accords explicites mais dissimulés, entre acteurs (entre collègue mais pas plus). D’autre à de accords tacites ou enfin simplement à la convergence de comportements (routine locale). L’échelle des normes est avant tout locale. Elles se forment par des interactions récurrentes voir routinières (ex : culture professionnelle). Elles semblent donc être fortement contextualisées.
-
-Les normes pratiques peuvent être plus ou moins dissimulées et plus au moins légitimantes (2 variables fortement liées). L’intrusion d’une norme sociale dans la sphère professionnelle (qui devient donc une norme pratique) procède de cette légitimation d’une action (ex de l’absentéisme pour cause de baptême ou d’enterrement).
-
-« L’espace de jeu » entre normes officielles et normes pratiques peut également être un espace de transformation des pratiques.
-
-Typologie des normes pratiques
-
--       Adaptatives : exemple du policier qui règle le conflit sur place pour désengorger les services judiciaires.
--       Semi-tolérées : ex de l’utilisation du matériel à titre perso
--       Transgressives : corruption (forte déviance).
--       Palliatives : relève de la débrouillardise
--       Rebelles
-
-## observations importantes
-- On pourrait faire l’hypothèse qu’il existe un ensemble de normes pratiques qui structurent le comportement/la manière de traiter des prospecteurs. Le stage est l’occasion de relever ces normes pratiques, implicites, qui échappent aux institutions (internationales et nationales ??) de la lutte antiacridienne (CLCPRO etc.)
-- On pourra faire l’hypothèse que les cultures professionnelles de traitement sont diverses à l’échelle des pays de la CLCPRO. Cette diversité étant constituée en partie d’un ensemble de normes pratiques, localement constituées. Il faudra donc porter un intérêt particulier aux interactions entre les acteurs chargés de la gestion de la lutte AA, puisque si les interactions entre acteurs internationaux sont fréquentes l’échelle des normes pratiques de traitement est peut-être plus petit que l’échelle locale (voir national). 
-
 # The limitations of locust preventive management faced with spatial uncertainty: exploration with a multi-agent model
 
 Gay, Lecoq, Piou
@@ -151,3 +120,51 @@ Elle mentionne également la confrontation entre utilisation agricole et utilisa
 Pour elle le future de la gestion est dans l’articulation entre l’utilisation de biopesticides non nocifs pour environnement et l’homme et la collecte à des fins alimentaires.
 
 Nicolas Bécu ![[Capture d’écran 2023-02-23 à 16.08.50.png]]
+
+# Locusts and People: Integrating the Social Sciences in Sustainable Locust Management
+
+L'article est une super capitalisation des travaux menées sciences sociales sur la gestion anti-acridienne: NOMBREUSES REFERENCES 
+
+Il prend comme point de départ le constat suivant: "LOCUST SCIENCE NEEDS SOCIAL SCIENCES"
+
+D'une part parce que le fait acridien est au centre d'un certain nombre de préoccupations sociales, culturelles, économiques et politiques. De l'autre parce que les invasions de criquets ont de fortes conséquences sur la vitalité et l'organisation des sociétés (à plusieurs échelle): coûts économiques élevés tant pour le traitement des invasions que pour les dégâts qu'elles occasionnent, facteur important de migrations, facteur de dégradation du système éducatif, de surexploitation des ressources, de renforcement des tensions pasteurs-agriculteurs etc. 
+Lecoq en 2009 réaffirme la nécessité d'étudier et de comprendre la gestion acridienne à travers les variables sociales et organisationnelles qui impactent sa structure. En d'autres termes; la "locust science" ne peut se limiter à l'écologie du fait acridien (Desert locust: From ecology to anthropology). Il semble d'autant plus nécessaire de mettre au centre ces dimensions sociales, puisque l'efficacité de la gestion acridienne semble limitée avant tout par des facteurs organisationnelles, économiques et de coordination. 
+Les auteurs rappellent que l'intégration des sciences sociales dans la science acridienne s'inscrit dans l'enjeux plus large de l'articulation interdisciplinaire entre sciences dites naturelles et sciences sociales. Ils mentionnent plusieurs courants (à considérer plus tard?): 
+- l'approche par les socio-écosystème 
+- les sciences sociales environnementales 
+- la political ecology 
+- les humanités environnementales
+
+Pour en revenir à la locust science, les deux enjeux majeurs auxquels font face les sciences sociales sont: 
+- d'assurer la coordination et la mise en place d'une gouvernance multi-niveaux pour un phénomène qui fait fi des frontières (spatial-mismatch entre l'échelle du système de gestion et celle du processus écologique)
+-  d'assurer le maintien du système de surveillance durant les périodes de récession (temporal-mismatch) c'est-à-dire la disponibilité matérielle et humaine (faire face au cercle visieux - oubli)
+
+# Maintenir la vigilance 
+
+L'auteur commence par donner plusieurs références de travaux portant sur les conditions de gestion, les effets et la réception des désartres dans des dimensions politiques, culturelles et organisationnelles. 
+Il utilise le terme de "gouvernement de la préparation aux désastres" pour renvoyer à ces travaux. 
+Il évoque aussi le dilemme, fréquent dans ces études, entre la "naturalisation" et la "culturalisation" des risques (notamment des risques acridiens) (**Très concis sur cet encrage théorique. Potentiellement intéressant de s'y plonger**)
+
+Foucault a longuement décrit les mécanismes de surveillance en milieu urbain ou en milieu clos, ici l'article est tourné vers un autre enjeux: celui d'identifier les condition de possibilité d'une coordination des activités de surveillance en "monde ouvert"
+Plus précisement il caractérise la gestion anti-acridienne comme "gestion préventive en milieux ouverts de phénomènes intermittents de faible fréquence". L'objectif face à ce type de risque est de mettre en place une "attente vigilante". Il s'agit donc de coordonner non plus pour prévenir l'attente mais plutot pour supporter une attente nécessaire. 
+"Ces longues périodes de calme et d'attente deviennent ainsi les points névralgiques d'un dispositf d'humain et de non-humains qui peinent à tenir ensemble sans criquets grégaires pour maintenir leurs liens"
+L'auteur prend comme terrain la Mauritanie car c'est le pays où la lutte semble être la plus efficace. Ainsi il mène cette étude (de terrain) dans le but de définir les conditions d'une attente vigilante efficace et d'une coordination durable. 
+
+Sans les décrire précisement, il fait la liste des acteurs participants aux systèmes de lutte: entomologiste pro, bailleurs de fonds, éleveurs nomades, services nationaux de protection des végétaux, ONG, petits cultivateurs. 
+Ces acteurs ont des régimes de discours différents allant du discours scientifico-technique des entomo aux discours "populaires" qui voit les criquets "dévorateurs" comme un "fléau divin" en passant par le régime politico-administratif qui use du langage militaire et sécuritaire (sécurité alimentaire etc.)
+Cette diversité de discours s'articule avec une diversité de modes de saisissement du dispositif de lutte, les non-initiés réduisant le phénomène acridien aux rares invasions (donc ne sont pas du tt dans l'attente vigilante). Qu'est ce que pour eux, un dispositif de lutte efficace? 
+
+Même au sein des professionnels, il n'y a pas de consensus: 
+- sur le coûts des invasions (??? pas compris ca)
+- sur les effets réels des dispositifs de lutte
+Ainsi trois grandes options de gestion sont encore débattues *(ca me fait penser au controverse sur la gestion de la prévention des feux de forêt)**: 
+- option de la lutte préventive 
+- option de la lutte curative 
+- option de non lutte avec des financements qui se portent sur la compensation des impacts des invasions. 
+
+La dernière partie de l'article porte sur le criquet solitaire envisagé comme **Objet frontière transitionnel** qui structure un ensemble de relations constitutif de l'attente vigilante. Le criquet solitaire est le seul criquet observable en période de récession. Il est donc transitionnel puisqu'il fait la transition entre les invasions passées et les invasions futures potentielles. Il est l'élément tangible, qui rend présent autant le souvenir des grandes invasions passées et que la menace des invasions futures. C'est à objet frontière parce que c'est grâce à lui que les liens entre acteurs perdurent pendant cette période de récession. Les prospecteurs renforcent leur présence dans les zones d'émergence et donc leurs interactions avec les locaux (éleveurs nomades). Des liens de confiance peuvent de construire. Les locaux deviennent des acteurs à part entière (signalement). 
+
+
+
+
+

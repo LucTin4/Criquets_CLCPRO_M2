@@ -1,4 +1,7 @@
- 22/0
+Pour prendre connaissance des réflexions spécifiques au contenu et à la forme du modèle -> [[Modèle Netlogo]]
+
+# SYNTHESE 
+
 ## Pourquoi étudier la gestion antiacridienne préventive à travers les pratiques de surveillance et de traitement? 
 
 Après quelques lectures, la réponse à cette question n'est pas claire. L'existence de ce stage suppose qu'il y ait des défaillances dans la gestion préventive actuelle mais je n'ai pas encore réussi à clairement les identifier.
@@ -24,6 +27,8 @@ Pour reprendre les niveaux définis par Gay *et al* dans leur modèle SMA (N1: e
 
 ## Comment tirer parti du travail d'entretien? 
 
+Le travail sur les entretiens ce trouve ici -> [[Traitement des données d'entretiens]]
+
 Pour mieux comprendre les entretiens il serait peut-être utile de lire, préalablement, les guides de la FAO https://www.fao.org/ag/locusts/en/publicat/gl/gl/index.html mais ils datent de 2001-2003. 
 
 Qu'est ce que vous avez cherché à comprendre avec ces entretiens? 
@@ -44,7 +49,7 @@ A partir de cela on pose (pourrait poser) plusieurs hypothèses:
 1)  Il existe un ensemble de normes pratiques (Olivier de Sardan, 2021) c'est-à-dire de pratiques inconscientes ou dissimulées qui ne relèvent pas des textes et stratégies officielles (de l'UNLA ou de la CLCPRO)
 2) Le format de l'entretien n'est pas adapté pour identifier ces normes pratiques (inconscientes ou dissimulées). Celui du jeu conviendrait davantage (nécessité de creuser la question de quelle est la plus value du jeu par rapport aux entretiens face à cet enjeu)
 
-Le modèle jeu est également pensé comme objet permettant aux agents acridiens de renforcer la compréhension de leur raisons d'actions et de leur manières d'agir réciproques. Le jeu semble donc pouvoir être un objet améliorant la compréhension inter-acteurs et potentiellement s'ériger comme médium permettant la structuration d'un ensemble de pratiques collectivement définies (?)
+Le modèle jeu est également pensé comme objet permettant aux agents acridiens de renforcer la compréhension de leur raisons d'actions et de leur manières d'agir réciproques (on fait donc l'hypothèse que les interactions entre prospecteurs internationaux ne sont pas assez récurentes pour que tous les prospecteurs est conscience du comportement des autres). Le jeu semble donc pouvoir être un objet améliorant la compréhension inter-acteurs et potentiellement s'ériger comme médium permettant la structuration d'un ensemble de pratiques collectivement définies (?)
 
 ## Avec qui (et pour qui) travaille-t-on? 
 
@@ -53,19 +58,32 @@ Les utilisateurs du jeu seront des professionnels de la lutte antiacridienne. Il
 
 (( Ici je parle un peu en live.
 
-Serait peut-être intéressant de trouver de la biblio (des réflexions) qui parle de la manière dont le statut des joueurs (pour lequel est formalisé le jeu) peut influencer le format et l'usage d'un jeu. Est-ce que cette question est similaire à celle qui fait s'articuler objectifs de recherche et format/usage d'un jeu?  En d'autres termes, se demande pour qui est créé ce jeu est similaire à se demande pour quoi est créé ce jeu? 
+Serait peut-être intéressant de trouver de la biblio (des réflexions) qui parle de la manière dont le statut des joueurs (pour lequel est formalisé le jeu) peut influencer le format et l'usage d'un jeu. Est-ce que cette question est similaire à celle qui fait s'articuler objectifs de recherche et format/usage d'un jeu?  En d'autres termes, se demander pour qui est créé ce jeu est similaire à se demander pour quoi est créé ce jeu? 
 
 Même si il est bien trop précoce pour se poser la question, est-ce que l'organisation d'une session de jeu avec des joueurs qui ne sont pas directement liée à la gestion en tant que telle, mais qui peuvent être affecté par les invasions (éleveurs nomades),  Est-ce que l'usage et la fonction d'un jeu peut diverger selon le statut des joueurs/ la composition du groupe de joueur? ))
 
-## Quelles formes ce jeu devrait-il prendre? 
-
-##### Quel support? 
-Physique ou numérique. Déterminer les avantage et inconveniants de chacun?  
-
-##### Quel degré de généralité/spécificité? 
-Le modèle a pour vocation de diserner les cultures locales de traitement. Il ne semble donc pouvoir être trop spécifique (intégration de SIG / l'implémentation d'un environnement détaillé semble peu problable)
-##### Quelle échelle? 
 
 
 
-##### Quelle temporalité? 
+# EVOLUTION CHRONOLOGIQUE
+
+## 27/02/22 
+
+### Retour sur l'entrevue avec Etienne 
+
+L'idée est de comprendre les processus (ensemble de facteurs) de décision des différents prospecteurs chargés de la lutte antiacridienne afin de comprendre: 
+- la diversité ou similarité des pratiques entre les prospecteurs d'un même pays 
+- la diversité ou similarité des pratiques entre les prospecteurs des différents pays (cultures nationales)
+- l'écart entre le comportement réels des prospecteurs et celui supposés par la FAO (documents officiels)
+- identifier des difficultés micro (sortir de l'analyse macro de la FAO) qui contraignent le bon déroulement des opérations de surveillance et de traitement (notamment l'arbitrage lié aux contraintes matérielles)
+La liberté dont jouissent le CNLAA et ses prospecteurs dépend des phases acridiennes (récession, résurgence, invasion, reduction). Pendant les invasions, ils sont chargés de traiter systématiquement alors que lors des phases de récession et de resurgence, les prospecteurs ont une grande liberté d'action. Ce pouvoir de décision des prospecteurs est plus ou moins revendiqués (**Compendre quel(s) profil(s) de prospecteurs le revendique fortement?**), ce qui peut avoir une inscidence sur le processus de décision (**Mieux comprendre comment ce facteur influence la décision de traiter ou non?** Ingérence d'acteurs extérieurs à la structure de la CNLA, responsabilité etc.  )
+
+D'autres facteurs semblent influer la décision: 
+- **la perspection (relative) du risque.** Pour une densité de criquet/ nb de criquet donnée, le risque ne semble pas le même d'un prospecteur à un autre (selon le contexte territorial, national - **identifier d'autres facteurs**)
+- **la dangerosité sanitaire et écologique du traitement**. Les prospecteurs évitent de traiter à proximité des activités humaines et des milieux naturels fragiles (rivière etc.). Ici, sans connaitre très bien la zone, le caractère itinérant des activités humaines, notamment de l'élevage, doit surement complexifier l'équation. 
+- **travail des experts** (notamment de Cyril) qui sont spécifiquement menés pour accompagner/orienter les décisions
+
+Enfin un dernier point important: Est-ce qu'assurer l'efficacité de la lutte antiacridienne à l'échelle internationale consiste à standardiser les pratiques (souhait de la FAO?) ou à renforcer les particularismes nationaux de gestion (si tant est qu'ils aient émergé d'une adaptation aux territoires plutot qu'à une adaptation au sous financement ou autres contraintes organisationnelles) et améliorer la compréhension des pratiques de chacun. 
+
+
+

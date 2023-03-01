@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes de lecture.md",
+                "file": "Notes de lecture thématique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52a702df2a559444",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes de lecture thématique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d7e71f90ae2a2fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Réflexion sur le stage (Carnet de bord).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,8 +73,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Lecture ",
-                "matchingCase": false,
+                "query": "tag:#ModèleNetlogo",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -65,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes de lecture.md",
+                "file": "Réflexion sur le stage (Carnet de bord).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes de lecture.md",
+                "file": "Réflexion sur le stage (Carnet de bord).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes de lecture.md"
+                "file": "Réflexion sur le stage (Carnet de bord).md"
               }
             }
           }
@@ -147,6 +171,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fbc3f9493b4513ad",
-  "lastOpenFiles": []
+  "active": "5d7e71f90ae2a2fb",
+  "lastOpenFiles": [
+    "Notes de lecture thématique.md",
+    "Modèle Netlogo.md",
+    "Notes de lectures conceptuelles et théoriques.md",
+    "Traitement des données d'entretiens.md",
+    "Réflexion sur le stage (Carnet de bord).md",
+    "Modèle conceptuel (.dot).md",
+    "README.md",
+    "Untitled.canvas",
+    "2023-02-28.md",
+    "Capture d’écran 2023-02-23 à 16.08.50.png.md",
+    "Capture d’écran 2023-02-23 à 16.08.50.png"
+  ]
 }
