@@ -116,6 +116,15 @@ Décisions liées au traitement
 
 On pourrait inclure dans le processus décisionnel tous les choix liés à la circulation de l'information (comment ils traitent l'information reçue et surtout comment ils transfèrent de l'information? A qui? Pourquoi?)
 
+# 02/03/23
+
+
+L'enjeu semble être de saisir:
+- les décisions de planificiation: càd celles qui sont formulées (et donc conscientes) en amont du départ en prospection (quand ou à combien pourquoi partir?)
+- les décisions d'adaptation: càd les arbitrages et les choix liés aux imprévus contraignants du terrain. 
+Or comment intégrer ces deux ensembles dans un même modèle? Les décisions de planification et d'adaptation ne se prennent pas en même temps, ne répondant pas au même facteurs/drivers etc. Les décisions de planification (celle qui conditionne le départ) peuvent être des inputs fixés par les joueurs en entrant dans le serveur de jeu? Elles s'éloignent surement moins des pratiques soutenues par la FAO? 
+
+
 
 
 

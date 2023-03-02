@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fbc3f9493b4513ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes de lectures thématiques.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52a702df2a559444",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes de lectures thématiques.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5d7e71f90ae2a2fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes de lectures conceptuelles et théoriques.md",
+                "file": "Modèle Netlogo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes de lectures conceptuelles et théoriques.md",
+                "file": "Modèle Netlogo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes de lectures conceptuelles et théoriques.md",
+                "file": "Modèle Netlogo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes de lectures conceptuelles et théoriques.md"
+                "file": "Modèle Netlogo.md"
               }
             }
           }
@@ -163,21 +138,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
     }
   },
   "active": "5d7e71f90ae2a2fb",
   "lastOpenFiles": [
-    "Notes de lectures thématiques.md",
-    "Modèle Netlogo.md",
     "Modèle conceptuel (.dot).md",
-    "Notes de lectures conceptuelles et théoriques.md",
+    "Modèle Netlogo.md",
     "Réflexion sur le stage (Carnet de bord).md",
+    "Notes de lectures conceptuelles et théoriques.md",
+    "Notes de lectures thématiques.md",
+    "Notes de lecture thématique.md",
     "Traitement des données d'entretiens.md",
     "README.md",
     "Untitled.canvas",
