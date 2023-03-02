@@ -86,4 +86,38 @@ D'autres facteurs semblent influer la décision:
 Enfin un dernier point important: Est-ce qu'assurer l'efficacité de la lutte antiacridienne à l'échelle internationale consiste à standardiser les pratiques (souhait de la FAO?) ou à renforcer les particularismes nationaux de gestion (si tant est qu'ils aient émergé d'une adaptation aux territoires plutot qu'à une adaptation au sous financement ou autres contraintes organisationnelles) et améliorer la compréhension des pratiques de chacun. 
 
 
+## 01/03/23
+
+Il serait peut-être intéressant de faire une frise chronologique représentant selon les phases, les différentes décisions que doivent/peuvent prendre les prospecteurs. En distinguant peut-être (par la suite) les facteurs/arbitrages officiels (ceux présents dans les guides de la FAO) et ceux officieux. Ou en distinguant quelle décision sont sujettes au plus de choix différents? 
+Toujours savoir à quoi/qui ils se réfèrent? (textes officiels, formations, conseils collègues, expérience propre etc.)
+
+Décision sur: 
+
+Décision de prospection et planification (On fait l'hypothèse ici qu'un certain nombre d'éléments sont planifiés avant le départ - la durée et l'itinéraire): 
+- départ en prospection (Quand décident-ils de partir et pourquoi maintenant?)
+- Personnes participants à la prospection (nombre, statut etc.)
+- itinéraire de la prospection (Quels sont les lieux ciblés au départ de la mission? Pourquoi ces lieux? )
+- durée de la prospection
+- Volume et nature du matériel (Est-ce que le matériel est toujours le même où il y a une liberté + question sur le volume des stocks constitués?  )
+
+Décisions sur le terrain, adaptation et modifications du plan initial de surveillance
+- Allongement ou raccourcissement de la durée? 
+- Changement d'itinéraire (Pourquoi changer d'itinéraire? Est-ce normal? Pourquoi une situation peut-elle s'avérer prioritaire? )
+- Repérages des zones propices (Selon quels critères une zone est considérée comme propice? Qu'est-ce que les prospecteurs regardent? )
+- Informations recueillies? 
+- Technique de transect? (pédestre, véhicule, avion. Pourquoi un mode plus qu'un autre? contrainte matérielle/économique, préférence de chacun?)
+
+Décisions liées au traitement
+- recours au traitement (Faut-il traiter? L'indicateur semble être une densité de criquets - densité fixe ou variable? Si variable selon quels facteurs - proximité activités économiques, conditions environnementales ?)
+- Quand traiter? (A quelle heure de la journée? Selon quelles conditions?)
+- Etendue de la zone traitée 
+- Mode de traitement (à la main, en avion etc. surement très lié à l'étendue de la zone traitée?)
+- Produit utilisé (Existe-t-il un seul ou plusieurs produits?)
+
+On pourrait inclure dans le processus décisionnel tous les choix liés à la circulation de l'information (comment ils traitent l'information reçue et surtout comment ils transfèrent de l'information? A qui? Pourquoi?)
+
+
+
+
+
 

@@ -28,3 +28,27 @@ Typologie des normes pratiques
 - On pourrait faire l’hypothèse qu’il existe un ensemble de normes pratiques qui structurent le comportement/la manière de traiter des prospecteurs. Le stage est l’occasion de relever ces normes pratiques, implicites, qui échappent aux institutions (internationales et nationales ??) de la lutte antiacridienne (CLCPRO etc.)
 - On pourra faire l’hypothèse que les cultures professionnelles de traitement sont diverses à l’échelle des pays de la CLCPRO. Cette diversité étant constituée en partie d’un ensemble de normes pratiques, localement constituées. Il faudra donc porter un intérêt particulier aux interactions entre les acteurs chargés de la gestion de la lutte AA, puisque si les interactions entre acteurs internationaux sont fréquentes l’échelle des normes pratiques de traitement est peut-être plus petit que l’échelle locale (voir national). 
 
+# L'acteur et le système, Michel Crozier
+
+Ici l'idée était de comprendre les rapports individus-organisation et les fondements de l'analyse des processus décisionnels dans un contexte professionnel. 
+
+Avec cet ouvrage les deux auteurs pose les fondements d'un nouveau courant: l'analyse stratégique. Celle-ci s'intéresse particulièrement aux processus de prise de décision stratégique, aux facteurs qui les influencent (contraintes externes et internes, enjeux de pouvoir, normes sociales etc.). 
+
+Elle est fondée sur 4 postulats 
+- Une organisation est un construit social 
+- Les acteurs, participant au fonctionnement des organisations, ne sont pas seulement des excécutants (ils ont des buts propres, des visions différentes)
+- Les acteurs ont une autonomie relative 
+- Les acteurs ont une rationalité limité 
+
+Elle est fondéé sur 4 concepts opérationnels 
+- Acteur - capable d'action, répondant à des enjeux pour lesquels il déploie des stratégies spécifiques 
+- Incertitude - des règles non définies par l'organisation, des zone d'ombre qui peuvent être particulièrement convoitées pour la liberté d'action qu'elles permettent 
+- Système d'action concret - comme circuits d'action et de communication formels et informels. 
+- Pouvoir - perçu comme une relation et pas comme un attribut. Pas seulement en termes hiérarchiques: l'imprévisibilité d'un comportement constitue en soi une forme de pouvoir, pas nécessairement hiérarchique. 
+
+En bref l'analyse stratégique montre 1) que les systèmes comportent toujours une part de conflictualité 2) qu'ils comportent une part d'informel
+Ce cadre théorique permet de partir du comportement d'acteurs pour comprendre les contraintes du système dans lequel ils évoluent, qui expliquent leur apparente irrationalité. 
+Assez spécifique et peut-être peu adapté au sujet mais 2 choses particulièrement intéressante: 
+- sociologie fondé sur les interactions (et non pas les états)
+- grande importance du jeu (règles, joueurs etc.)
+

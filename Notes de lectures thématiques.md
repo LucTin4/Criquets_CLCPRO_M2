@@ -164,6 +164,23 @@ Ainsi trois grandes options de gestion sont encore débattues *(ca me fait pense
 
 La dernière partie de l'article porte sur le criquet solitaire envisagé comme **Objet frontière transitionnel** qui structure un ensemble de relations constitutif de l'attente vigilante. Le criquet solitaire est le seul criquet observable en période de récession. Il est donc transitionnel puisqu'il fait la transition entre les invasions passées et les invasions futures potentielles. Il est l'élément tangible, qui rend présent autant le souvenir des grandes invasions passées et que la menace des invasions futures. C'est à objet frontière parce que c'est grâce à lui que les liens entre acteurs perdurent pendant cette période de récession. Les prospecteurs renforcent leur présence dans les zones d'émergence et donc leurs interactions avec les locaux (éleveurs nomades). Des liens de confiance peuvent de construire. Les locaux deviennent des acteurs à part entière (signalement). 
 
+# Desert locust Management: from Ecology to Anthropology 
+## Michel Lecoq
+
+Le problème prioritaire actuel (après 2005) est de nature organisationnel plutot qu'écologique. Les invasions de 87-89 et 2003-2005 ne semblent pas provenir d'une méconnaissance des processus écologiques/biologiques des criquets mais plutôt des défaillances du système de gestion préventive. 
+Les défaillances soulevées sont les suivantes: 
+- Réactivité faible des bailleurs
+- Fonds pas disponibles au bon moment 
+- equipes de contrôle trop faibles 
+- plan d'urgence inexistant 
+- problèmes de communication à plusieurs niveaux 
+- problème de désaccords sur le traitement 
+- ingérence politique 
+Face à ce constat 
+- l'enjeu pour Lecoq était de renforcer les capacités des Centre nationaux de lutte (ce qui a surement été fait depuis)
+- nécessité de proter une plus grande attention aux stratégies et rôles des différentes parties prenantes du système de contrôle (liste:) - Référence au travaux de Crozier (L'acteur et le système, 1977) et de Mermet (2005).
+Parler de la nécessité d'étudier non plus les criquets eux-même, mais les interractions hommes-criquets. 
+
 
 
 
