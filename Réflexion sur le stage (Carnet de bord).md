@@ -123,11 +123,28 @@ L'enjeu semble être de saisir:
 - les décisions d'adaptation: càd les arbitrages et les choix liés aux imprévus contraignants du terrain. 
 Or comment intégrer ces deux ensembles dans un même modèle? Les décisions de planification et d'adaptation ne se prennent pas en même temps, ne répondant pas au même facteurs/drivers etc. Les décisions de planification (celle qui conditionne le départ) peuvent être des inputs fixés par les joueurs en entrant dans le serveur de jeu? Elles s'éloignent surement moins des pratiques soutenues par la FAO? 
 
-# 03/03/23 
+# 06/03/23 
 
+Entrevu avec Jean Pierre
 
+Voir derrière l'écart entre les pratiques supposées par la FAO et les pratiques réelles, des défaillances n'est pas le bonne angle d'attaque (autant scientique que postural). Il s'agit avant tout de décrire des pratiques qui ne sont pas connues par la FAO, qui peuvent s'avérer efficaces ou ne pas l'être. Cependant il est également difficile d'évaluer l'efficacité d'une pratique (et c'est pas vraiment ce que l'on me demande). 
+Est ce que ça marche? Pourquoi ca marche?
 
+Est-ce que le jeu est une démarche complémentaire d'acquisition de données? ou est-il aussi un outil de partage de pratiques entre communautés de prospection qui agissent différemment? 
 
+On pourrait structurer le jeu en déterminant avant tout différents contextes de lutte (paysages/environnements différents) et en créant un modèle à partir d'une grande diversité de contexte - semble peu réalisable compte tenu du nombre de personne mobilisée sur le projet etc. 
+
+On pourra aussi partir d'un contexte partiulier, un pays, structurer un modèle spécifique et l'utiliser avec des acteurs d'autres contextes. Des différences pourront ressortir de l'usage du jeu mais aussi du remodelage du jeu en lui-même. 
+
+Pour remédier au problème d'échelle (de situations de prise de décision différentes - planification vs adaptation) une structure de jeu en tours successifs pourrait être envisagée. Dans un même environnement mais pas forcément avec les même actions disponibles (Phase 1: choix de l'itinéraire de prospection avec sélection de plusieurs localités T2: situations d'actions avec plusieurs indices etc.)
+
+Entrevue avec Etienne 
+
+Question de l'information limité à laquelle ont accès les prospecteurs. La notion de point de vue doit être centrale dans la réfléxion sur le modèle. LA situation réelle et mieux reproduit + des différences entrent joueurs pourront plus aisément émerger (certains vont exprimer un manque, d'autre non. Ex: je ne vois pas d'oiseau dans le modèle alors qu'ils sont importants pour repérer les criquets). Dans ce sens, l'interface de HubNet est particulièrement adaptée pour simuler les différences de pdv entre les joueurs et le MJ 
+
+Comment se passe une session de jeu. Comment faire joueur et interagir? Quels groupes formés (groupe nationaux, chaine de commandement avec FAO-directeur-prospecteurs etc. ou simplement une galerie de prospecteurs?) 
+
+Dans l'arbitrage jeu physique / jeu numérique l'ajout/la modification du jeu lors des sessions est beaucoup plus aisée dans un jeu physique. Or si on suit la logique du jeu formalisé dans un contexte national puis utilisé dans d'autres contextes, on peut supposer (Hypo) que les modifications seront nombreuses
 
 
 
