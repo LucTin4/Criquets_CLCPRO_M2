@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modèle Netlogo.md",
+                "file": "Notes de lectures conceptuelles et théoriques.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 315.5
   },
   "right": {
     "id": "009173b491924d68",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modèle Netlogo.md",
+                "file": "Notes de lectures conceptuelles et théoriques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modèle Netlogo.md",
+                "file": "Notes de lectures conceptuelles et théoriques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modèle Netlogo.md"
+                "file": "Notes de lectures conceptuelles et théoriques.md"
               }
             }
           }
@@ -148,14 +148,14 @@
   },
   "active": "5d7e71f90ae2a2fb",
   "lastOpenFiles": [
-    "Modèle conceptuel (.dot).md",
-    "Modèle Netlogo.md",
-    "Réflexion sur le stage (Carnet de bord).md",
-    "Notes de lectures conceptuelles et théoriques.md",
-    "Notes de lectures thématiques.md",
-    "Notes de lecture thématique.md",
     "Traitement des données d'entretiens.md",
+    "Réflexion sur le stage (Carnet de bord).md",
+    "Notes de lectures thématiques.md",
+    "Modèle Netlogo.md",
     "README.md",
+    "Notes de lectures conceptuelles et théoriques.md",
+    "Modèle conceptuel (.dot).md",
+    "Notes de lecture thématique.md",
     "Untitled.canvas",
     "2023-02-28.md",
     "Capture d’écran 2023-02-23 à 16.08.50.png.md",

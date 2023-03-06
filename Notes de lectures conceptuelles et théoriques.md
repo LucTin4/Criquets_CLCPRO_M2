@@ -52,3 +52,5 @@ Assez spécifique et peut-être peu adapté au sujet mais 2 choses particulière
 - sociologie fondé sur les interactions (et non pas les états)
 - grande importance du jeu (règles, joueurs etc.)
 
+
+

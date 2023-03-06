@@ -71,7 +71,7 @@ Même si il est bien trop précoce pour se poser la question, est-ce que l'organ
 
 ### Retour sur l'entrevue avec Etienne 
 
-L'idée est de comprendre les processus (ensemble de facteurs) de décision des différents prospecteurs chargés de la lutte antiacridienne afin de comprendre: 
+L'idée est de comprendre les **processus (ensemble de facteurs) de décision** des différents prospecteurs chargés de la lutte antiacridienne afin de comprendre: 
 - la diversité ou similarité des pratiques entre les prospecteurs d'un même pays 
 - la diversité ou similarité des pratiques entre les prospecteurs des différents pays (cultures nationales)
 - l'écart entre le comportement réels des prospecteurs et celui supposés par la FAO (documents officiels)
@@ -118,11 +118,15 @@ On pourrait inclure dans le processus décisionnel tous les choix liés à la ci
 
 # 02/03/23
 
-
 L'enjeu semble être de saisir:
 - les décisions de planificiation: càd celles qui sont formulées (et donc conscientes) en amont du départ en prospection (quand ou à combien pourquoi partir?)
 - les décisions d'adaptation: càd les arbitrages et les choix liés aux imprévus contraignants du terrain. 
 Or comment intégrer ces deux ensembles dans un même modèle? Les décisions de planification et d'adaptation ne se prennent pas en même temps, ne répondant pas au même facteurs/drivers etc. Les décisions de planification (celle qui conditionne le départ) peuvent être des inputs fixés par les joueurs en entrant dans le serveur de jeu? Elles s'éloignent surement moins des pratiques soutenues par la FAO? 
+
+# 03/03/23 
+
+
+
 
 
 
