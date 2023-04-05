@@ -53,4 +53,14 @@ Assez spécifique et peut-être peu adapté au sujet mais 2 choses particulière
 - grande importance du jeu (règles, joueurs etc.)
 
 
+# La Méthode des itinéraires: une approche microsociale (Dominique Desjeux)
+https://www-cairn-info.faraway.parisnanterre.fr/la-consommation--9782130535317-page-89.htm#no3
+
+
+
+
+
+# vidéo les possédés, De Sardan 
+
+Anthropologie d'un groupe => anthropologie d'une arène (avec une diversité d'acteurs en interaction/confrontation)
 

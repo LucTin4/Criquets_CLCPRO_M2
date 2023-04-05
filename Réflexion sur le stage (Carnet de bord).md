@@ -1,5 +1,10 @@
 Pour prendre connaissance des réflexions spécifiques au contenu et à la forme du modèle -> [[Modèle Netlogo]]
 
+Objectif
+- commencer le modèle netlogo - liste des éléments à représenter 
+- finir la calibration du réseau bayesien
+- 
+
 # SYNTHESE 
 
 ## Pourquoi étudier la gestion antiacridienne préventive à travers les pratiques de surveillance et de traitement? 
@@ -146,8 +151,26 @@ Comment se passe une session de jeu. Comment faire joueur et interagir? Quels gr
 
 Dans l'arbitrage jeu physique / jeu numérique l'ajout/la modification du jeu lors des sessions est beaucoup plus aisée dans un jeu physique. Or si on suit la logique du jeu formalisé dans un contexte national puis utilisé dans d'autres contextes, on peut supposer (Hypo) que les modifications seront nombreuses
 
+## Entrevue avec Cyril 
 
+Le projet vise à soutenir et orienter les prospecteurs sur le terrain. Il est divisé en 5WP 
+- La prévision du risque 
+- Les effets du changement climatique 
+- le volet biopesticides
+- Création d'un outil (type planteNet) de reconnaissance des plantes favorables au criquet (à partir du bouquin Florule etc.) 
+- le volet science humaine sur les seuil d'intervention rapide. 
 
+Les seuils d'intervention rapide (terme de la FAO qui n'est pas ressorti des entretiens) renvoie au seuil de traitement, qui sont différent des seuils de grégarisation. Les seuils de grégarisation renvoient aux densités à partir desquelles les criquets vont commencés à changer de comportement selon différentes végétations (contexte enviro). Grande variabilité car ils vont de 250 ailés/ha (quand faible végétation) à 2500 indiv/ha. 
+**L'hypothèse est que les seuils d'intervention rapide dépendent d'un certain nombre de facteurs socio-techniques qui l'on va chercher à identifier**. 
 
+La fonction du jeu va dépendre des résultats d'entretien - soit outils de révélement des pratiques inconscientes/dissimulées soit autres fonctions. 
 
+23/03/23
+
+Je suis dans une impasse parce que j'ai l'impression que l'hypothèse fondamentale, qui est celle de la diversité, s'avère être bancale. Si la diversité des pratiques existent nécessairement, à travers les sensibilités individuelles notamment, affecte-t-elle significativement l'efficacité et la manière dont est menée la lutte anti-acridienne? Pourquoi s'intéresser à la diversité? Ett si cette divergence ne relevait que de sensibilités individuelles (difficulté de former des idéotypes) et d'écart d'expérience? 
+
+Les points de divergence que l'on pourrait, pour le moment, identifier sont les suivants: 
+- Le choix des itinéraires. La diversité des manières de se déplacer dans un secteur réside-t-elle dans l'existence de stratégies différentes et délibérées ou est-elle le fruit de niveaux d'experience plus ou moins forte? Si c'est une question d'inexpérience et de formation quelle utilité?
+- Les facteurs socio-économiques qui influencent/retardent la décision de traitement (chainon aval, une fois la qualification du lieu faite): ingérence, activité humaine, air de protection. Ils semblent particulièrement difficiles à saisir. Parce que enjeux sociaux, culturelles, politiques mais aussi peut-être parce qu'ils ne sont pas fréquents, et relèvent plutôt de l'anecdote que d'une contrainte récurrente et identifiée comme telle.
+- L'autonomie des prospecteurs. Certains semblent plus susceptibles de demander conseil au centre. D'autre communique bcp moins que les standards (Par exemple Tharmane n'a envoyé que 5 message - e-locust -au cours de son voyage de 6 jours. Tous les messages dataient du même jour) La encore qu'est-ce que ça dit? 
 

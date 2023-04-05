@@ -120,6 +120,99 @@ Comment rendre compte de cela? Est-ce un élément important à intégrer ou fau
 Si le jeu permet de disserner les pratiques inconscientes/dissimulées, en faisant office de substitut à l'expérience, a-t-il une réelle utilité? Pourquoi pas simplement multiplier les observations participantes - l'acquisition de données comportementales serait surement moins biaisée (?). 
 Le jeu doit donc avec une autre fonction, mais laquelle? 
 
+# 03/04/2023
+
+### Fonction du jeu 
+
+Le jeu est une mise en situation virtuelle, où on tente de respecter plus ou moins fidèlement l'expérience du prospecteur sur le terrain. Il a un intérêt pratique et scientifique
+- Pratique parce que partir sur le terrain avec les prospecteurs n'est pas chose aisée et qu'il est difficile de multiplier les expériences et(// les stagiaires sont formés pendant de longues années pour pouvoir être confronté à un panel varié de situations qui pour certaines s'avèrent assez rares)
+- Scientifique parce que la mise en situation fictive et virtuelle permet:
+	- la simplification de l'expérience (développer mais fonction de filtre)
+	- le choix des contraintes - ce qui permet de remédier au problème pratique ci-dessus (voir une variété de situation). 
+
+### Echelle
+
+2 voir 3 étapes semblent intervenir (liée à des échelles/pdv différents)
+1) Itinéraire et la planification (échelle du secteur - map avec des points de passage)
+2) la prospection dans le véhicule (orientation, observation et décision d'arrêt)
+3) la prospection hors du véhicule (observation et qualification du lieu)
+
+Peut-être 1) et 2) peuvent être regroupés? 
+
+## Itinéraire et planification
+
+L'idée ici est d'avoir un paysage fictif, avec certains éléments renseignés (qui sont ceux figurant sur les cartes et les GPS) et d'avoir des éléments qui apparaissent au fil des rencontres/de la récupération d'info du centre etc. 
+L'intérêt est de s'avoir: 
+- Comment le prospecteur se dirigie et s'oriente dans le secteur? 
+- Qu'est-ce qu'il priorise? 
+- Comment va-t-il chercher de l'information et comment la considère-t-il? 
+
+#### Entités 
+
+Les éléments initiaux
+- **topographie** 
+	- A quoi sert-elle? Contrainte aux déplacements plus qu'indicateur de lieu intéressant. 
+- **localités** (peut-être inutiles mais peuvent être plus investies par certains prospecteurs que par d'autres?) 
+- **Voiture** (agent mouvant représentant le joueur)
+
+Les éléments apparaissants
+- les **populations** (peut-être pas d'intérêt de distinguer plus finement nomades agriculteurs etc. sauf que les nomades sont mouvants)
+	- Faut-il distinguer différents types de populations? Nomades agents mobiles vs agricutleurs/locaux habitants des villages plutôt statiques? 
+	- L'information est-elle différentes et différemment considérées selon les sources? 
+- les **signalisations** - agents clignotants apparaissant après une rencontre ou un appel du centre. 
+	- Faut-il distinguer les signalisations selon leur objet (pluie vs verdure vs présence criquets)
+	- Faut-il leur désigner un degré de validité? (inutile si les prospecteurs vont nécessairement vérifier)
+	- Faut-il leur désigner un degré d'urgence? (plutot au prospecteur de le faire mais ce paramètre d'urgent pourrait aider à créer des situations tendues -cf ci-dessous)
+
+#### Pas de temps
+
+Comment l'itinéraire est-il planifié? A la journée, sur plusieurs jour? On peut faire l'hypothèse que le pas de temps conditionne l'échelle de l'itinéraire. 
+On peut tester l'adaptation des réactions à des contextes tendus (avec beaucoup de situations préoccupantes) en faisant jouer le participant pendant des périodes calmes et des périodes tendues.
+
+#### Trajectoires et déplacements de la voiture 
+
+C'est un point central. Est-ce que la voiture se déplace par point (itinéraire faire de point) ou par ligne, avec le joueur qui peut a tout moment définir la trajectoire (cf. modèle de déplacement dans *Bug Hunter Competition*)
+
+
+## Prospection dans le véhicule
+
+Ici il s'agit plus de comprendre les logiques d'arrêt et de déplacement entre deux points de l'itinéraire. 
+Cependant est-ce qu'elle nécessite une autre interface//autre pdv? 
+- OUI (version ambitieuse). On pourrait intégrer une nouvelle vue, représentant la vue de la voiture. Le propsecteur/joueur peut changer quand il le souhaite de vue (entre vue itinéraire et celle de la fenetre de la voiture) 
+- NON. Jouer avec le pdv du joueur en créant une zone autour de l'agent voiture, qui se complexifie avec le biotope (couverture végétale, état de verdure etc.) et de potentielles apparitions de criquets (en forme d'agent cette fois) etc. (la zone proche détaillée correspondrait à la fenetre joueur hubnet et la carte à celle du modérateur). Problème = le prospecteur a-t-il assez d'informations pour prendre une décision d'arrêt (si pas assez d'info, pas de possibilité de le mettre face à des situations variées et d'analyser ses choix en conséquence)
+
+Les arrêts marchent avec des conditions suffisantes (IF) et des mécanismes de mémorisations pour les contextualisées (nombre de criquets vu auparavant, nature des biotopes antérieurs etc.). 
+
+## Prospection hors du véhicule
+
+Cette partie est fortement structurées par les éléments du réseau bayesien. Il s'agit de comprendre, en reprennant tous les éléments du réseau, pour une combinaison donnée comment le propsecteur interprète les risques et qualifie le lieu. Les éléments apparaissent après un zoom, un changement d'interface - mais comment le faire???
+
+Ce que le jeu permet par rapport au réseau bayesien: les prises de décisions (ntm de qualification) sont contextualisées (relative à d'autres situations, avec une contrainte temporelle, et une spatialité)
+
+#### Entités
+
+2 possibilités
+- Les éléments sont disposés de façon a reproduire fidélement ce que le prospecteur pourrait voir. La couverture végétale seraient représentées par une multitude d'agents herbes, plus ou moins jaune selon leur état de verdure etc.  
+	- (+) :Plus grande similitude avec la situation réelle + permet de voir plus finement comment le prospecteur se comporte (comment se dirige-t-il, jusqu'à quel nv d'info prospecte-t-il? etc.)
+	- (-) : Alourdi le modèle, parce que potentiellement beaucoup d'agent + difficulté de reproduire des environnements complexes, et donc une mauvaise reproduction pourrait amenée à des problèmes d'interprétation des réponses (si pendant l'animation on demande au prospecteur d'expliquer ces choix, moins de pb)
+
+- Les éléments apparaissent juste comme des indicateurs, un peu comme une légende de carte. 
+	- (+) : facile à implémenter / + formalisés donc moins de risque d'écart entre les raisons du choix du joueur et l'interprétation que l'on en fait
+	- (-) : Les possibilités du modèle agent ne sont plus mises à profit + écart énorme avec la situation réelle.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
